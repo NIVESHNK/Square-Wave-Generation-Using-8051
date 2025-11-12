@@ -2,7 +2,7 @@
 
 ## Aim:
 To generate a square wave using the 8051 microcontroller and observe the waveform using Keil software and Proteus simulation.
-
+ 
 ## Apparatus Required:
 •	Laptop with Keil uVision software
 •	Proteus Design Suite
